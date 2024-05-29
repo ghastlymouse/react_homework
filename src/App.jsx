@@ -1,7 +1,11 @@
+import Registration from "./Registration"
+import TodoList from "./TodoList"
 
 const App = () => {
   return (
-    <div>App</div>
+    <>
+      <TodoList />
+    </>
   )
 }
 
