@@ -1,7 +1,10 @@
+import TodoContainer from "./components/todo/TodoContainer"
 
 const App = () => {
   return (
-    <div>App</div>
+    <>
+      <TodoContainer />
+    </>
   )
 }
 
